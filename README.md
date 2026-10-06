@@ -6,9 +6,9 @@ This project was developed as part of the **CSE 4202: Structured Programming II 
 
 | Name | Student ID |
 |---|---|
-| [Gazi Mahir Prodhani] | [240041202] |
-| [Araf Arsham Muzib] | [240041212] |
-| [Tahmeed Ahmed Chowdhury] | [240041238] |
+| Gazi Mahir Prodhani | 240041202 |
+| Araf Arsham Muzib | 240041212 |
+| Tahmeed Ahmed Chowdhury | 240041238 |
 
 ## Description
 
@@ -31,4 +31,4 @@ To build and run the project:
 2. Ensure that the C compiler/toolchain is installed and available to VS Code.
 3. Press F5 to build and run the project.
 
-If running the executable standalone, include the "assets" folder in the same directory as the executable.
+The executable can be found in the Orb-e\bin\Debug directory after building and running. If running this executable standalone, include the "assets" folder in the same directory as it.
